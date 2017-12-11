@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e7f91ad7e6425cc4f873fe3ee9997f38
+timeCreated: 1512871592
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 160
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Digital Dot Roadsign
+  fontNames:
+  - Digital Dot Roadsign
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
